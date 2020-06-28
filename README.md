@@ -6,10 +6,10 @@ You can play the game at: https://githubschool.github.io/github-games/
 
 ### Instructions for playing the game
 
-1. Press the space bar to begin.
-2. Use the up and down arrow keys to rotate the shape.
-3. Use the left and right arrow keys to position the shape.
-4. The goal is to create complete rows with no empty spaces.
+1. Do 1st step.
+2. Do 2nd step.
+3. Do 3rd step.
+4. Do 4th step
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
 
