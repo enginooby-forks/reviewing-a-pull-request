@@ -9,6 +9,15 @@ To play the game:
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
 
+### Instructions for playing the game
+
+1. Do 1st step.
+2. Do 2nd step.
+3. Do 3rd step.
+4. Do 4th step
+5. When completed, the rows will disappear.
+6. To pause the game, just press the space bar again.
+
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
